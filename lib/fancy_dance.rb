@@ -6,8 +6,8 @@ module FancyDance
   end
 
   module ClassMethods                 # you "extend" these class methods
-    def megajump 
+    def megajump
       "I'm a whole class of MOFO's jumping"
     end
-  end 
+  end
 end
